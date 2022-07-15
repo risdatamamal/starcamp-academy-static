@@ -701,6 +701,38 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Reviews
+--------------------------------------------------------------*/
+.reviews .member {
+  text-align: center;
+  margin-bottom: 20px;
+  background: #fff;
+  border: 1px solid #eef0ef;
+}
+.reviews .member img {
+  margin: -1px -1px 30px -1px;
+}
+.reviews .member .member-content {
+  padding: 0 20px 30px 20px;
+}
+.reviews .member h4 {
+  font-weight: 700;
+  margin-bottom: 2px;
+  font-size: 18px;
+}
+.reviews .member span {
+  font-style: italic;
+  display: block;
+  font-size: 13px;
+}
+.reviews .member p {
+  padding-top: 10px;
+  font-size: 14px;
+  font-style: italic;
+  color: #aaaaaa;
+}
+
+/*--------------------------------------------------------------
 # Trainers
 --------------------------------------------------------------*/
 .trainers .member {
